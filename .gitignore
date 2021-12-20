@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large data files
+./data/test.csv
+./data/test.csv
