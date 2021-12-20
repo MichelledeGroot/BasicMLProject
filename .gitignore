@@ -132,5 +132,4 @@ dmypy.json
 .pyre/
 
 # Large data files
-./data/test.csv
-./data/test.csv
+./data
